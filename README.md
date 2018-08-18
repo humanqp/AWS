@@ -11,6 +11,16 @@
   
 > ### EC2
   - 인스턴스 1 = 컴퓨터 1
+  
+> ### nodejs를 위한 AWS SDK : AWS SDK를 이용하는 방법
+  - https://opentutorials.org/course/2717/11768
+  - AWS Node Js Credentials : https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/getting-started-nodejs.html
+  - 
+  
+> ### DB
+  - EC2에 mysql Client 설치
+    + `sudo apt-get install mysql-client`
+
 
   
 
