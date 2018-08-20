@@ -25,6 +25,11 @@
   1. S3 : Object Link 에 대한 접근 제한이 가능한지?
   2. S3 : Object에 대한 암호화가 가능한지?
   3. 1,2번이 불가능하면 DB에 이미지 저장하는 걸로 설계함. 
+  
+> ### S3 IP 제한 정책 
+  - https://pete.wtf/2012/05/01/how-to-setup-aws-s3-access-from-specific-ips/
+
+> ### 
 
 
   
