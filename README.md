@@ -20,6 +20,11 @@
 > ### DB
   - EC2에 mysql Client 설치
     + `sudo apt-get install mysql-client`
+    
+> ### Check List
+  1. S3 : Object Link 에 대한 접근 제한이 가능한지?
+  2. S3 : Object에 대한 암호화가 가능한지?
+  3. 1,2번이 불가능하면 DB에 이미지 저장하는 걸로 설계함. 
 
 
   
